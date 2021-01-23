@@ -10,9 +10,8 @@ namespace metotlar
         {
             Console.WriteLine("sepete eklendi");
 
-
         }
-        public void Ekle2(string urunAdi, string)
-        {
-            Console.WriteLine();
-}   }   }
+        
+        
+        
+}   }   
